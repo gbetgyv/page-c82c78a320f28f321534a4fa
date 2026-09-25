@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--naiu-oe6f526c.com/sitemap.xml
